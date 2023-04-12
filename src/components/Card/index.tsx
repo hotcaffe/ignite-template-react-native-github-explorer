@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { Alert } from 'react-native';
+import { Alert, View } from 'react-native';
 import { Swipeable } from 'react-native-gesture-handler';
 
 import { useRepositories } from '../../hooks/useRepositories';
